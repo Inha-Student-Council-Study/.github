@@ -9,5 +9,5 @@
 | 스터디장 | 부스터디장 |
 |:----------:|:----------:|
 | ![image](https://github.com/user-attachments/assets/96d40fc3-8616-4c4e-bd8c-2f8b6167a4ea) | ![image](https://github.com/user-attachments/assets/6c3cf812-9d84-4a89-b635-3adc3bf4b527) |
-| Hexeong   | Yeon Lee  |
+| Hexeong   | Yeonri  |
 | 박인성   | 임수연   |
